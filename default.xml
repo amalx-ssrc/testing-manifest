@@ -3,9 +3,9 @@
 
 <remote fetch="https://github.com/amalx-ssrc" name="origin"/>
 
-<default remote="origin" revison="main"/> 
+<!-- <default remote="origin" revison="main"/>  -->
 
-<project name = "gitactions-pr" path ="gitactions-pr"/> 
+<project name = "gitactions-pr" remote="origin" revison="main" path ="gitactions-pr"/> 
 
 
 </manifest>
